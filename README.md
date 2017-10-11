@@ -1,5 +1,4 @@
-#  Mitros1973.Multimitros <div style="position: relative; height: 16px; width: 100%; overflow: hidden; padding-top:200%;"><iframe src="//widgets-code.websta.me/w/25cba2d779ef?ck=MjAxNy0wMS0yNVQwNjoyNzoxNi4wMDBa" class="websta-widgets" allowtransparency="true" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe> <!-- WEBSTA WIDGETS - widgets.websta.me --></div>
-<div dir="ltr" style="text-align: left;" trbidi="on">
+#  Mitros1973.Multimitros
 Mitros.Tziavaras
   Multimitros
  Mitros1973<br />
