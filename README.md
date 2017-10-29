@@ -7,8 +7,7 @@
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(gcse, s);
   })();
-</script>
-<gcse:search></gcse:search>
+
   
 <div dir="ltr" style="text-align: left;" trbidi="on">
 Mitros.Tziavaras
