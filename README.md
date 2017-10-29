@@ -1,5 +1,4 @@
-#  Mitros1973.Multimitros <script>
-  (function() {
+#  Mitros1973.Multimitros (function() {
     var cx = '015705803977090371190:fjdqrltw2bs';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
@@ -10,6 +9,7 @@
   })();
 </script>
 <gcse:search></gcse:search>
+  
 <div dir="ltr" style="text-align: left;" trbidi="on">
 Mitros.Tziavaras
 Multimitros
