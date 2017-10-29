@@ -1,4 +1,15 @@
-#  Mitros1973.Multimitros
+#  Mitros1973.Multimitros <script>
+  (function() {
+    var cx = '015705803977090371190:fjdqrltw2bs';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
 <div dir="ltr" style="text-align: left;" trbidi="on">
 Mitros.Tziavaras
 Multimitros
