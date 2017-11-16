@@ -1,12 +1,4 @@
-#  Mitros1973.Multimitros (function() {
-    var cx = '015705803977090371190:fjdqrltw2bs';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
- 
+#  Mitros1973.Multimitros
 
   
 <div dir="ltr" style="text-align: left;" trbidi="on">
