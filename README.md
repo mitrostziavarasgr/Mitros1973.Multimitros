@@ -1,5 +1,18 @@
 #  Mitros1973.Multimitros <div dir="ltr" style="text-align: left;" trbidi="on">
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/OLVXX3F8ee0" width="480"></iframe><br />
+<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/OLVXX3F8ee0" width="480"></iframe><br /><div dir="ltr" style="text-align: left;" trbidi="on">
+<h2 style="text-align: left;">
+Mitros.Tziavaras
+Multimitros
+Mitros1973</h2>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://1.bp.blogspot.com/-BGzj5ykZQC0/Wg6_Nfx0_DI/AAAAAAAAtik/-hw3szKYnhsCsV9hVA15PpceL-oCAdzFACKgBGAs/s1600/IMG_8572.GIF" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img alt="Mitros1973.Multimitros" border="0" data-original-height="640" data-original-width="640" src="https://1.bp.blogspot.com/-BGzj5ykZQC0/Wg6_Nfx0_DI/AAAAAAAAtik/-hw3szKYnhsCsV9hVA15PpceL-oCAdzFACKgBGAs/s1600/IMG_8572.GIF" title="chess mitros1973" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Mitros1973.com<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-VOz74nfTaYc/WhGO8NNZvLI/AAAAAAAAtkk/CLotmLoim-UCfP_voLXMjL4t4zUBkzghQCKgBGAs/s1600/IMG_8575.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1600" src="https://3.bp.blogspot.com/-VOz74nfTaYc/WhGO8NNZvLI/AAAAAAAAtkk/CLotmLoim-UCfP_voLXMjL4t4zUBkzghQCKgBGAs/s1600/IMG_8575.PNG" /></a></div>
+</td></tr>
+</tbody></table>
+</div>
+
 <br />
 Mitros.Tziavaras<br />
 Mitros1973.Multimitros</div>
