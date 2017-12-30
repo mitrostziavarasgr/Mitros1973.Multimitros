@@ -1,4 +1,4 @@
-  <script type = "text / javascript" src = "// platform-api.sharethis.com/js/sharethis.js#property=5a4750e6c4203c00110b9012&product=inline-share-buttons"> </ script                                         Mitros1973.Multimitros                      
+                                        Mitros1973.Multimitros                      
   <div dir="ltr" style="text-align: left;" trbidi="on">
 Mitros.Tziavaras
 Mitros1973.Multimitros <br />
