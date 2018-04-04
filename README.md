@@ -1,5 +1,5 @@
                                               Mitros.Tziavaras
-<div style="width:480px;text-align:right;"><embed width="480" height="360" src="http://pic2.pbsrc.com/flash/rss_slideshow.swf" flashvars="rssFeed=http%3A%2F%2Ffeed34.photobucket.com%2Falbums%2Fd139%2Fmitros73%2Flondon%2Ffeed.rss" type="application/x-shockwave-flash" wmode="transparent" /><a href="javascript:void(0);" target="_blank"><img src="http://pic.photobucket.com/share/icons/embed/btn_geturs.gif" style="border:none;" /></a><a href="http://s34.photobucket.com/user/mitros73/library/london" target="_blank"><img src="http://pic.photobucket.com/share/icons/embed/btn_viewall.gif" style="border:none;" alt="mitros73&#039;s london album on Photobucket" /></a></embed></div> <div dir="ltr" style="text-align: left;" trbidi="on">
+<div dir="ltr" style="text-align: left;" trbidi="on">
 <h3 style="text-align: left;">
 Mitros.Tziavaras
 Mitros1973.Multimitros<div class="separator" style="clear: both; text-align: center;">
