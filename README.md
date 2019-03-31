@@ -1,7 +1,7 @@
 
-                                   <div dir="ltr" style="text-align: left;" trbidi="on">
+   
 <h3 style="text-align: left;">
-Mitros.Tziavaras
+                             Mitros.Tziavaras
 Mitros1973.Multimitros<div class="separator" style="clear: both; text-align: center;">
 <a href="https://4.bp.blogspot.com/-eV9BF2vdZNw/WlvYoLbrvqI/AAAAAAAAv20/O8bRxxA1YEIQUQD4F5dY_O6-fLZYHXM7gCLcBGAs/s1600/IMG_9511.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="270" data-original-width="1600" src="https://4.bp.blogspot.com/-eV9BF2vdZNw/WlvYoLbrvqI/AAAAAAAAv20/O8bRxxA1YEIQUQD4F5dY_O6-fLZYHXM7gCLcBGAs/s1600/IMG_9511.PNG" /></a></div>
 </h3>
