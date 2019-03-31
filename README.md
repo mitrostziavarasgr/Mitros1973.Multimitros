@@ -1,36 +1,5 @@
-                                              Mitros.Tziavaras
-<script type='text/javascript'>
-var disqus_shortname = 'http-www-mitrostziavaras-gr';
-// DON'T EDIT BELOW THIS LINE
-(function () {
-var loaded = false;
-function loadDisqus() {
-if (loaded) return;
-loaded = true;
-var div = document.getElementById('all-comments');
-div.innerHTML = ''; div.id = 'disqus_thread';
 
-var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-
-(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-
-}
-
-if ( document.getElementById('all-comments') || document.readyState === "complete" ) {
-return setTimeout( loadDisqus, 1 );
-}
-
-if ( document.addEventListener ) {
-document.addEventListener( "DOMContentLoaded", loadDisqus, false );
-window.addEventListener( "load", loadDisqus, false );
-} else if ( document.attachEvent ) {
-document.attachEvent( "onreadystatechange", loadDisqus );
-window.attachEvent( "onload", loadDisqus);
-}
-}());
-</script>
-                            <div dir="ltr" style="text-align: left;" trbidi="on">
+                                   <div dir="ltr" style="text-align: left;" trbidi="on">
 <h3 style="text-align: left;">
 Mitros.Tziavaras
 Mitros1973.Multimitros<div class="separator" style="clear: both; text-align: center;">
