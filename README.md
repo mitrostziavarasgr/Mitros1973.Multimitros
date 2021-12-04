@@ -2,7 +2,7 @@
    
                                                      Mitros.Tziavaras
                                                      
- [mixcloud https://www.mixcloud.com/mitros1973/p-lion-happy-children-digital-extended-remix/ width=100% height=120 hide_cover=1 autoplay=1]
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2Fmitros1973%2Fp-lion-happy-children-digital-extended-remix%2F" frameborder="0" allow="autoplay"></iframe>
  
    <iframe src="https://widget.spreaker.com/player?show_id=1864735&theme=dark&playlist=show&playlist-continuous=true&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" width="100%" height="350px" frameborder="0"></iframe>
    
