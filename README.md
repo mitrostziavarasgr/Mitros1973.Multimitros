@@ -1,7 +1,7 @@
 
    
                                                      Mitros.Tziavaras
-    <iframe src="https://widget.spreaker.com/player?show_id=1864735&theme=dark&playlist=show&playlist-continuous=true&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" width="100%" height="350px" frameborder="0"></iframe>                                                
+  <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/39042485&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>                                               
     <img src='https://lh3.googleusercontent.com/-OIipDor95tU/W17FDTpEcpI/AAAAAAAA00Y/fqgBdpFLzpwdhUf7fMnIYB_zT85C_DnOgCHMYBhgL/I/IMG_4549.GIF' style='max-width:586px;' /><br />
 <div>Mitros.Tziavaras</div>                                                 
  <img src='https://lh3.googleusercontent.com/-ztIIj7gbgW0/W17FDUvzc4I/AAAAAAAA00Y/M7jseaWcmXAitsDFykFdnEaaRSflZ2EFQCHMYBhgL/I/IMG_4543.GIF' style='max-width:586px;' /><br />
